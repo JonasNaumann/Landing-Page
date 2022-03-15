@@ -1,0 +1,29 @@
+p {
+  color: #ffffff;
+  opacity: 87%;
+  line-height: 25px;
+  text-align: justify;
+  width: 450px;
+}
+
+#urlTabEmailResponse {
+  transform: translate(-45px, 25px);
+}
+
+#urlTabEmailResponseContent {
+  text-align: center;
+  border-color: rgba(246, 111, 86, 0);
+  width: 0px;
+  height: 0px;
+  transform: inherit;
+  transition: box-shadow 0.4s ease-in-out;
+}
+
+#urlTabEmailResponseContent:hover {
+  cursor: default;
+  box-shadow: inset 0 0 1.5em rgb(236, 183, 223);
+}
+
+#urlTabGoBack {
+  transform: translate(-20px, 150px);
+}
