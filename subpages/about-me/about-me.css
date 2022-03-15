@@ -1,0 +1,11 @@
+p {
+  color: #ffffff;
+  opacity: 87%;
+  line-height: 25px;
+  text-align: justify;
+  width: 450px;
+}
+
+#urlTabGoBack {
+  transform: translate(-20px, 150px);
+}
